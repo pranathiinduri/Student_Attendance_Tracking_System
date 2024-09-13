@@ -7,7 +7,7 @@ The system enhances the accuracy of attendance recording by achieving a 90% dete
 ![Screenshot (41)](https://github.com/user-attachments/assets/50215325-b010-458e-9a01-69cc116813d9)
 
 
-****There is a student details page where the student enters his/her details,take a photo sample,update or delete details.**
+**There is a student details page where the student enters his/her details,take a photo sample,update or delete details.**
 ![Screenshot (42)](https://github.com/user-attachments/assets/756d6f22-1bb9-4aaa-87e1-f02c660026a1)
 
 **The next step is to train the model with images so the student clicks on take photo sample and images clicked.**
